@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shreyash26k/Code_Practice/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/shreyash26k/Code_Practice/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/shreyash26k/Code_Practice/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/shreyash26k/Code_Practice/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,10 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/shreyash26k/Code_Practice/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/shreyash26k/Code_Practice/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/shreyash26k/Code_Practice/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/shreyash26k/Code_Practice/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -50,4 +53,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/shreyash26k/Code_Practice/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/shreyash26k/Code_Practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
