@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shreyash26k/Code_Practice/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/shreyash26k/Code_Practice/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/shreyash26k/Code_Practice/tree/master/0486-predict-the-winner) |
+| [0643-maximum-average-subarray-i](https://github.com/shreyash26k/Code_Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/shreyash26k/Code_Practice/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/shreyash26k/Code_Practice/tree/master/1406-stone-game-iii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shreyash26k/Code_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/shreyash26k/Code_Practice/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/shreyash26k/Code_Practice/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/shreyash26k/Code_Practice/tree/master/0196-delete-duplicate-emails) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/shreyash26k/Code_Practice/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
