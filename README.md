@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/shreyash26k/Code_Practice/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/shreyash26k/Code_Practice/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/shreyash26k/Code_Practice/tree/master/0585-investments-in-2016) |
+| [0610-triangle-judgement](https://github.com/shreyash26k/Code_Practice/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/shreyash26k/Code_Practice/tree/master/0620-not-boring-movies) |
 | [1045-customers-who-bought-all-products](https://github.com/shreyash26k/Code_Practice/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/shreyash26k/Code_Practice/tree/master/1068-product-sales-analysis-i) |
