@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/shreyash26k/Code_Practice/tree/master/0013-roman-to-integer) |
 | [0486-predict-the-winner](https://github.com/shreyash26k/Code_Practice/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/shreyash26k/Code_Practice/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/shreyash26k/Code_Practice/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/shreyash26k/Code_Practice/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shreyash26k/Code_Practice/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -201,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/shreyash26k/Code_Practice/tree/master/3903-smallest-stable-index-i) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/shreyash26k/Code_Practice/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
