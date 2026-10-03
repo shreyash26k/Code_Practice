@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shreyash26k/Code_Practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyash26k/Code_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shreyash26k/Code_Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0189-rotate-array](https://github.com/shreyash26k/Code_Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shreyash26k/Code_Practice/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/shreyash26k/Code_Practice/tree/master/0486-predict-the-winner) |
 | [0643-maximum-average-subarray-i](https://github.com/shreyash26k/Code_Practice/tree/master/0643-maximum-average-subarray-i) |
@@ -87,11 +88,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shreyash26k/Code_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shreyash26k/Code_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shreyash26k/Code_Practice/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/shreyash26k/Code_Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shreyash26k/Code_Practice/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shreyash26k/Code_Practice/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/shreyash26k/Code_Practice/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/shreyash26k/Code_Practice/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/shreyash26k/Code_Practice/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/shreyash26k/Code_Practice/tree/master/0877-stone-game) |
