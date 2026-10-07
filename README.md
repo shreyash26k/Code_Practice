@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/shreyash26k/Code_Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shreyash26k/Code_Practice/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shreyash26k/Code_Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shreyash26k/Code_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shreyash26k/Code_Practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyash26k/Code_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shreyash26k/Code_Practice/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/shreyash26k/Code_Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shreyash26k/Code_Practice/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shreyash26k/Code_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shreyash26k/Code_Practice/tree/master/0088-merge-sorted-array) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/shreyash26k/Code_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/shreyash26k/Code_Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shreyash26k/Code_Practice/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/shreyash26k/Code_Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shreyash26k/Code_Practice/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyash26k/Code_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shreyash26k/Code_Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
