@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shreyash26k/Code_Practice/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/shreyash26k/Code_Practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shreyash26k/Code_Practice/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/shreyash26k/Code_Practice/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/shreyash26k/Code_Practice/tree/master/0836-rectangle-overlap) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/shreyash26k/Code_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/shreyash26k/Code_Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shreyash26k/Code_Practice/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/shreyash26k/Code_Practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyash26k/Code_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shreyash26k/Code_Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/shreyash26k/Code_Practice/tree/master/0392-is-subsequence) |
@@ -322,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shreyash26k/Code_Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shreyash26k/Code_Practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
