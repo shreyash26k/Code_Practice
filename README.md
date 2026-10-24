@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shreyash26k/Code_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/shreyash26k/Code_Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shreyash26k/Code_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2409-count-days-spent-together](https://github.com/shreyash26k/Code_Practice/tree/master/2409-count-days-spent-together) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shreyash26k/Code_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shreyash26k/Code_Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shreyash26k/Code_Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/shreyash26k/Code_Practice/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/shreyash26k/Code_Practice/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/shreyash26k/Code_Practice/tree/master/1406-stone-game-iii) |
+| [2409-count-days-spent-together](https://github.com/shreyash26k/Code_Practice/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shreyash26k/Code_Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/shreyash26k/Code_Practice/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/shreyash26k/Code_Practice/tree/master/3871-count-commas-in-range-ii) |
