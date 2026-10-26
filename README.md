@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shreyash26k/Code_Practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyash26k/Code_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shreyash26k/Code_Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyash26k/Code_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shreyash26k/Code_Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shreyash26k/Code_Practice/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/shreyash26k/Code_Practice/tree/master/0486-predict-the-winner) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shreyash26k/Code_Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shreyash26k/Code_Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shreyash26k/Code_Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyash26k/Code_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shreyash26k/Code_Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shreyash26k/Code_Practice/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/shreyash26k/Code_Practice/tree/master/0392-is-subsequence) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyash26k/Code_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shreyash26k/Code_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shreyash26k/Code_Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shreyash26k/Code_Practice/tree/master/2333-minimum-sum-of-squared-difference) |
