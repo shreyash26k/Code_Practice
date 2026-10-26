@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shreyash26k/Code_Practice/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/shreyash26k/Code_Practice/tree/master/0013-roman-to-integer) |
+| [0383-ransom-note](https://github.com/shreyash26k/Code_Practice/tree/master/0383-ransom-note) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shreyash26k/Code_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shreyash26k/Code_Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shreyash26k/Code_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/shreyash26k/Code_Practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/shreyash26k/Code_Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shreyash26k/Code_Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0383-ransom-note](https://github.com/shreyash26k/Code_Practice/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/shreyash26k/Code_Practice/tree/master/0392-is-subsequence) |
 | [0856-score-of-parentheses](https://github.com/shreyash26k/Code_Practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shreyash26k/Code_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/shreyash26k/Code_Practice/tree/master/0383-ransom-note) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shreyash26k/Code_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shreyash26k/Code_Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Array
