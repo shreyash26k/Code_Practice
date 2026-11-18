@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shreyash26k/Code_Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreyash26k/Code_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/shreyash26k/Code_Practice/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/shreyash26k/Code_Practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/shreyash26k/Code_Practice/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/shreyash26k/Code_Practice/tree/master/0383-ransom-note) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shreyash26k/Code_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/shreyash26k/Code_Practice/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shreyash26k/Code_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/shreyash26k/Code_Practice/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/shreyash26k/Code_Practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shreyash26k/Code_Practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/shreyash26k/Code_Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shreyash26k/Code_Practice/tree/master/0151-reverse-words-in-a-string) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shreyash26k/Code_Practice/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/shreyash26k/Code_Practice/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/shreyash26k/Code_Practice/tree/master/0242-valid-anagram) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shreyash26k/Code_Practice/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyash26k/Code_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shreyash26k/Code_Practice/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/shreyash26k/Code_Practice/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/shreyash26k/Code_Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/shreyash26k/Code_Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shreyash26k/Code_Practice/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/shreyash26k/Code_Practice/tree/master/0066-plus-one) |
