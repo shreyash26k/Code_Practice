@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shreyash26k/Code_Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreyash26k/Code_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/shreyash26k/Code_Practice/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/shreyash26k/Code_Practice/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/shreyash26k/Code_Practice/tree/master/0383-ransom-note) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shreyash26k/Code_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shreyash26k/Code_Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/shreyash26k/Code_Practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/shreyash26k/Code_Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shreyash26k/Code_Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/shreyash26k/Code_Practice/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/shreyash26k/Code_Practice/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/shreyash26k/Code_Practice/tree/master/0392-is-subsequence) |
 | [0856-score-of-parentheses](https://github.com/shreyash26k/Code_Practice/tree/master/0856-score-of-parentheses) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shreyash26k/Code_Practice/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/shreyash26k/Code_Practice/tree/master/0242-valid-anagram) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shreyash26k/Code_Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shreyash26k/Code_Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shreyash26k/Code_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
