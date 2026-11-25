@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/shreyash26k/Code_Practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/shreyash26k/Code_Practice/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/shreyash26k/Code_Practice/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/shreyash26k/Code_Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/shreyash26k/Code_Practice/tree/master/0486-predict-the-winner) |
 | [0643-maximum-average-subarray-i](https://github.com/shreyash26k/Code_Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/shreyash26k/Code_Practice/tree/master/0746-min-cost-climbing-stairs) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shreyash26k/Code_Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0322-coin-change](https://github.com/shreyash26k/Code_Practice/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/shreyash26k/Code_Practice/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/shreyash26k/Code_Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/shreyash26k/Code_Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/shreyash26k/Code_Practice/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/shreyash26k/Code_Practice/tree/master/0746-min-cost-climbing-stairs) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/shreyash26k/Code_Practice/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/shreyash26k/Code_Practice/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -412,4 +415,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shreyash26k/Code_Practice/tree/master/0094-binary-tree-inorder-traversal) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/shreyash26k/Code_Practice/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
