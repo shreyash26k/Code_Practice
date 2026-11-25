@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreyash26k/Code_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/shreyash26k/Code_Practice/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/shreyash26k/Code_Practice/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/shreyash26k/Code_Practice/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/shreyash26k/Code_Practice/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/shreyash26k/Code_Practice/tree/master/0383-ransom-note) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shreyash26k/Code_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/shreyash26k/Code_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shreyash26k/Code_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shreyash26k/Code_Practice/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/shreyash26k/Code_Practice/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/shreyash26k/Code_Practice/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/shreyash26k/Code_Practice/tree/master/0392-is-subsequence) |
 ## Math
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shreyash26k/Code_Practice/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/shreyash26k/Code_Practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shreyash26k/Code_Practice/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/shreyash26k/Code_Practice/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/shreyash26k/Code_Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/shreyash26k/Code_Practice/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/shreyash26k/Code_Practice/tree/master/0836-rectangle-overlap) |
@@ -395,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/shreyash26k/Code_Practice/tree/master/3411-maximum-subarray-with-equal-products) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/shreyash26k/Code_Practice/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
