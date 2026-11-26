@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/shreyash26k/Code_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/shreyash26k/Code_Practice/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/shreyash26k/Code_Practice/tree/master/0383-ransom-note) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shreyash26k/Code_Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shreyash26k/Code_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shreyash26k/Code_Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shreyash26k/Code_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shreyash26k/Code_Practice/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/shreyash26k/Code_Practice/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/shreyash26k/Code_Practice/tree/master/0392-is-subsequence) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shreyash26k/Code_Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0856-score-of-parentheses](https://github.com/shreyash26k/Code_Practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shreyash26k/Code_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/shreyash26k/Code_Practice/tree/master/1021-remove-outermost-parentheses) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreyash26k/Code_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/shreyash26k/Code_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/shreyash26k/Code_Practice/tree/master/0219-contains-duplicate-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shreyash26k/Code_Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/shreyash26k/Code_Practice/tree/master/0643-maximum-average-subarray-i) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shreyash26k/Code_Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shreyash26k/Code_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shreyash26k/Code_Practice/tree/master/0053-maximum-subarray) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shreyash26k/Code_Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Knapsack Problem
 |  |
 | ------- |
